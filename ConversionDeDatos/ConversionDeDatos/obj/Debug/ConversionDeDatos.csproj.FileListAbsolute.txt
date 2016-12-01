@@ -1,0 +1,5 @@
+c:\users\fsociety91\documents\visual studio 2012\Projects\ConversionDeDatos\ConversionDeDatos\bin\Debug\ConversionDeDatos.exe.config
+c:\users\fsociety91\documents\visual studio 2012\Projects\ConversionDeDatos\ConversionDeDatos\bin\Debug\ConversionDeDatos.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\ConversionDeDatos\ConversionDeDatos\bin\Debug\ConversionDeDatos.pdb
+c:\users\fsociety91\documents\visual studio 2012\Projects\ConversionDeDatos\ConversionDeDatos\obj\Debug\ConversionDeDatos.exe
+c:\users\fsociety91\documents\visual studio 2012\Projects\ConversionDeDatos\ConversionDeDatos\obj\Debug\ConversionDeDatos.pdb
